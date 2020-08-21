@@ -1,2 +1,2 @@
 # AI-Desktop-voice-assistant
-I have created J.A.R.V.I.S with Python which is a Voice Activated Desktop Assistant.
+I have created a Voice Activated Desktop Assistant using python
